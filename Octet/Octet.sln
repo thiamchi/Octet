@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.329
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Octet", "Octet\Octet.csproj", "{50C902BB-1632-42CE-B1D5-BD5BE133FC01}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Octet", "Octet\Octet.csproj", "{39A3FC98-8E1B-44D3-AB1B-4E496C28450F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{50C902BB-1632-42CE-B1D5-BD5BE133FC01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{50C902BB-1632-42CE-B1D5-BD5BE133FC01}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{50C902BB-1632-42CE-B1D5-BD5BE133FC01}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{50C902BB-1632-42CE-B1D5-BD5BE133FC01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39A3FC98-8E1B-44D3-AB1B-4E496C28450F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39A3FC98-8E1B-44D3-AB1B-4E496C28450F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39A3FC98-8E1B-44D3-AB1B-4E496C28450F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39A3FC98-8E1B-44D3-AB1B-4E496C28450F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {9E5D7F34-15FF-4C5B-99B5-7BD0459EA3D5}
+		SolutionGuid = {4B89D0D9-24AD-4267-BE44-F9944E35EF52}
 	EndGlobalSection
 EndGlobal

@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>50c902bb-1632-42ce-b1d5-bd5be133fc01</ProjectGuid>
+    <ProjectGuid>39a3fc98-8e1b-44d3-ab1b-4e496c28450f</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Octet</RootNamespace>
